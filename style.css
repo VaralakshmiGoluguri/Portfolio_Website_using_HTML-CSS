@@ -4,6 +4,8 @@
     font-family: 'Josefin Sans', sans-serif;
     box-sizing: border-box;
     overflow-x:hidden;
+    display: flex;  
+    flex-wrap: wrap;
 }
 .main{
     height: 100vh;
