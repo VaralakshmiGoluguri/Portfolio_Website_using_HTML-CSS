@@ -64,6 +64,7 @@ nav ul li a:hover{
     top: 50%;
     left: 8%;
     transform: translateY(-50%);
+    display: flex;
     flex-wrap: wrap;
 }
 h1{
